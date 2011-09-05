@@ -2,7 +2,7 @@
 <project>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.luc.cs.laufer.cs433</groupId>
-	<artifactId>linear-regression-cxf</artifactId>
+	<artifactId>linreg-service-cxf-java</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<description>
